@@ -1,5 +1,17 @@
 # Growing an app with Feature Tests
-In this hackathon, you'll use RSpec & Capybara integration testing to help you add new features to a partially complete app. The app we'll be starting with should look familiar, it's a secret notetaking app!
+
+## Summary
+In this session, you'll use RSpec & Capybara integration testing to help you add new features to a partially complete app. The app we'll be starting with should look familiar, it's a secret notetaking app!
+
+## Concepts Covered
+- Rspec & Capybara Feature Testing
+- Using TDD to define goals and guide development
+
+## Objectives
+Student should be able to:
+- Feel comfortable beginning TDD on an app that is already in development.
+- Feel less intimidated at the concept of testing.
+- Be able to describe how they want their app to behave using tests
 
 
 ## Introduction
